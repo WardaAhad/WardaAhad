@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:000000&height=220&section=header&text=Warda%20Ahad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:000000&height=230&section=header&text=Warda%20Ahad&fontSize=75&fontColor=ffffff&animation=fadeIn"/>
 
 # 👩‍💻 Warda Ahad
 
@@ -8,7 +8,7 @@
 
 ### Building Intelligent Systems with Python, AI & Data 🚀
 
-<p>
+
 <a href="https://www.linkedin.com/in/warda-ahad-ai">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -20,7 +20,7 @@
 <a href="https://www.kaggle.com/wardaahad">
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-</p>
+
 
 </div>
 
@@ -29,36 +29,59 @@
 
 # 👩‍💻 About Me
 
-Hello! I'm **Warda Ahad**, a **Bachelor of Artificial Intelligence Student** passionate about creating intelligent solutions using Machine Learning, Deep Learning, and Generative AI.
 
-I love working with data, building predictive models, developing AI applications, and deploying machine learning solutions.
+Hello! I'm **Warda Ahad**, a **Bachelor of Artificial Intelligence Student** passionate about building intelligent systems using Machine Learning, Deep Learning, and Generative AI.
 
-Currently exploring:
+
+I focus on developing AI solutions, predictive models, and deploying machine learning applications into real-world environments.
+
+
+### Currently Exploring:
 
 - 🤖 Machine Learning Engineering
 - 🧠 Deep Learning
 - ✨ Generative AI
 - 🔗 AI Agents
-- ⚡ AI Application Development
-- 🚀 Model Deployment
+- 🧩 Large Language Models (LLMs)
+- 🚀 AI Model Deployment
+
+
+---
+
+# 💼 Experience & Training
+
+
+## 🧠 Machine Learning Trainee
+
+**Logixx Grid**
+
+- Working on Machine Learning workflows
+- Data preprocessing and analysis
+- Model training and evaluation
+- Understanding real-world ML pipelines
+
+
+## 🚀 AI Development Practice
+
+- Building ML projects
+- Developing APIs using FastAPI
+- Deploying models with Streamlit
+- Working with Git & GitHub
 
 
 ---
 
 # 🚀 AI Engineering Focus
 
-<div align="center">
 
-| Field | Skills |
+| Area | Skills |
 |---|---|
 | 🤖 Machine Learning | Regression, Classification, Model Evaluation |
 | 🧠 Deep Learning | Neural Networks, TensorFlow, Keras |
 | 📊 Data Science | Pandas, NumPy, Data Visualization |
 | ⚡ Backend | FastAPI, REST APIs |
 | 🎨 Deployment | Streamlit, Railway |
-| ✨ Generative AI | LLM Applications & AI Agents |
-
-</div>
+| ✨ Generative AI | LLM Applications, AI Agents |
 
 
 ---
@@ -66,46 +89,47 @@ Currently exploring:
 # 🛠️ Technical Skills
 
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,git,github,vscode,sql" />
-
-</div>
-
-
-### Programming & Data
+## 👨‍💻 Programming & Data
 
 🐍 Python  
 📊 Pandas  
 🔢 NumPy  
 📈 Matplotlib  
 🎨 Seaborn  
+🗄 SQL  
 
 
-### Machine Learning
+## 🤖 Machine Learning
 
-🤖 Scikit-learn  
-🌳 Decision Trees  
-🌲 Random Forest  
-📉 Regression Models  
-📊 Classification Models  
-
-
-### AI Development
-
-🧠 TensorFlow  
-🔥 Deep Learning  
-✨ Generative AI  
-🔗 AI Agents  
-⚡ LLM Applications  
+- Scikit-learn
+- Regression Models
+- Classification Models
+- Decision Trees
+- Random Forest
+- Feature Engineering
+- Model Evaluation
 
 
-### Deployment Tools
+## 🧠 Deep Learning & AI
 
-🚀 FastAPI  
-🎨 Streamlit  
-☁️ Railway  
-🐙 Git & GitHub  
+- TensorFlow
+- Keras
+- Artificial Neural Networks
+- Deep Learning Fundamentals
+- Generative AI
+- AI Agents
+- LLM Applications
+
+
+## 🚀 Deployment & Tools
+
+- FastAPI
+- Streamlit
+- Railway
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
 
 ---
@@ -113,62 +137,80 @@ Currently exploring:
 # 📂 Featured Projects
 
 
+<div align="center">
+
+
 ## 🏠 House Price Prediction
 
-A Machine Learning regression project that predicts house prices using multiple regression algorithms.
+**Machine Learning Regression Project**
 
-**Technologies:**
+Predicting house prices using multiple regression algorithms.
 
-- Python
-- Pandas
-- Scikit-learn
-- Regression Models
-- Model Evaluation
+**Tech Stack**
+
+🐍 Python  
+📊 Pandas  
+🤖 Scikit-learn  
+📈 Regression Models  
 
 
 ---
+
 
 ## 💳 Loan Risk Prediction
 
-A Deep Learning project to predict loan default risk using Artificial Neural Networks.
+**Deep Learning Classification Project**
 
-**Technologies:**
+Predicting loan default risk using Artificial Neural Networks.
 
-- Python
-- TensorFlow
-- Neural Networks
-- Data Analysis
-- Classification
+**Tech Stack**
+
+🐍 Python  
+🧠 TensorFlow  
+🔥 Neural Networks  
+📊 Data Analysis  
 
 
 ---
+
 
 ## 🌱 Fertilizer Yield Prediction
 
-A Machine Learning model that predicts crop yield based on fertilizer usage.
+**Machine Learning Prediction System**
 
-**Technologies:**
+Predicting crop yield based on fertilizer usage.
 
-- Python
-- Linear Regression
-- Data Visualization
-- Streamlit Deployment
+**Tech Stack**
+
+🐍 Python  
+📉 Linear Regression  
+📊 Visualization  
+🎨 Streamlit  
 
 
 ---
+
 
 ## 🤖 Rule Based AI Chatbot
 
-A Python-based chatbot project implementing conversational logic and AI concepts.
+**Artificial Intelligence Chatbot**
 
-**Technologies:**
+A conversational chatbot built using Python logic and AI concepts.
 
-- Python
-- NLP Basics
-- Rule-Based System
+**Tech Stack**
+
+🐍 Python  
+🧠 NLP Basics  
+💬 Rule-Based System  
+
+
+</div>
 
 
 ---
 
-# 📈 AI Learning Journey
+# 🚀 Deployment & AI Applications
+
+
+Currently building skills in:
 
