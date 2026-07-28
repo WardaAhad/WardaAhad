@@ -4,7 +4,7 @@
 
 # 👩‍💻 Warda Ahad
 
-## AI Engineer | Machine Learning | Deep Learning | Generative AI
+🤖 AI Engineer | ML Engineer Apprentice | Deep Learning | Generative AI
 
 ### Building Intelligent Systems with Python, AI & Data 🚀
 
@@ -46,15 +46,13 @@ I work on developing predictive models, AI applications, and deploying machine l
 
 # 💼 Experience & Training
 
-## 🧠 Machine Learning Trainee
+### 🧠 AI/ML Engineer Apprentice — Logixx Grid
 
-**Logixx Grid**
-
-- Machine Learning workflows
-- Data preprocessing
-- Model training and evaluation
-- Data analysis
-- Real-world ML pipelines
+- Working on Machine Learning and Data Science projects
+- Developing and evaluating ML models
+- Performing data preprocessing and analysis
+- Building AI solutions using Python
+- Exploring model deployment workflows
 
 
 ## 🚀 AI Development Practice
@@ -131,6 +129,22 @@ I work on developing predictive models, AI applications, and deploying machine l
 
 # 📂 Featured Projects
 
+## 📞 Customer Churn Prediction System
+
+**Machine Learning Deployment Project**
+
+Predicting customer churn using Machine Learning with API deployment.
+
+Tech Stack
+
+🐍 Python
+🤖 Scikit-learn
+⚡ FastAPI
+🎨 Streamlit
+☁️ Railway
+
+
+---
 
 ## 🏠 House Price Prediction
 
