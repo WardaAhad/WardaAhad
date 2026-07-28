@@ -1,83 +1,111 @@
+<!-- ============================================= -->
+<!--             WARDA AHAD GITHUB PROFILE         -->
+<!-- ============================================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Warda Ahad
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Warda+Ahad;Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Deep+Learning+Learner;Python+Developer;Future+AI+Engineer"/>
 
-### AI & Machine Learning Engineer | BS Artificial Intelligence Student | Python Developer
+# WARDA AHAD
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast;Generative+AI+Learner;Python+Developer;Building+Real-World+AI+Solutions" />
+### AI & Machine Learning Enthusiast | Python Developer | BS Artificial Intelligence Student
 
-<p align="center">
+<p>
 
-🎓 BS Artificial Intelligence Student
+🎓 **The Islamia University of Bahawalpur**
 
-🤖 AI & Machine Learning Trainee
+🤖 **AI & Data Science Intern @ DecodeLabs**
 
-💻 Python Developer
+🧠 **Machine Learning Trainee @ Logixx Grid**
 
-🚀 Building Intelligent AI Solutions
+📍 Pakistan
+
+🌍 Open to AI Internships, Research & Collaboration
 
 </p>
+
+<p>
+
+<a href="https://github.com/WardaAhad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/warda-ahad-ai">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:ahadwarda3026@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.kaggle.com/wardaahad">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+</a>
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=WardaAhad&style=for-the-badge&color=blue)
 
 </div>
 
 ---
 
-# 🚀 ABOUT ME
+# 🎯 WHO AM I?
 
-I'm **Warda Ahad**, a passionate **Artificial Intelligence student** dedicated to building intelligent systems that solve real-world problems.
+I'm **Warda Ahad**, a passionate **BS Artificial Intelligence Student** with a strong interest in **Machine Learning, Deep Learning, Data Science, and Python Development**.
 
-My interests lie in **Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Computer Vision, Generative AI, AI Agents, and Python Development.**
+I enjoy transforming data into intelligent solutions through AI-powered applications and continuously improving my skills by building practical projects.
 
-Currently, I am strengthening my expertise by working on real-world AI projects, learning modern AI technologies, and preparing myself for global AI opportunities.
+Currently, I am strengthening my expertise in **Deep Learning, FastAPI, Streamlit, AI Model Deployment, Generative AI, and AI Agents**.
 
-I enjoy transforming datasets into intelligent insights, training machine learning models, and deploying AI applications using modern frameworks.
-
----
-
-# 🎯 CURRENT FOCUS
-
-| 🚀 Area | Description |
-|---------|-------------|
-| 🤖 Artificial Intelligence | Building practical AI applications |
-| 🧠 Machine Learning | Classification, Regression & Predictive Models |
-| 📊 Data Science | EDA, Data Cleaning & Visualization |
-| 🔥 Deep Learning | Neural Networks using TensorFlow |
-| 🌍 Generative AI | Learning LLMs, Prompt Engineering & AI Agents |
-| ⚡ Model Deployment | FastAPI, Streamlit & APIs |
+My long-term goal is to become an **AI Engineer** capable of building scalable, production-ready AI systems for real-world applications.
 
 ---
 
-# 💼 EXPERIENCE
+# 🚀 CURRENT FOCUS
 
-### 🤖 AI Intern
-**DecodeLabs**
+<table>
 
-- AI Projects
-- Python Development
-- Machine Learning
-- Git & GitHub
-- Real-world AI Tasks
+<tr>
 
----
+<td width="50%">
 
-### 📊 Data Science Intern
-**DecodeLabs**
-
-- Exploratory Data Analysis
-- Data Cleaning
-- Data Visualization
-- Business Insights
-
----
-
-### 🧠 Machine Learning Trainee
-**Logixx Grid**
+## 🤖 Artificial Intelligence
 
 - Machine Learning
 - Deep Learning
+- Generative AI (Learning)
+- AI Agents (Learning)
+
+</td>
+
+<td width="50%">
+
+## 💻 Development
+
+- Python
 - FastAPI
 - Streamlit
-- Model Deployment
+- AI Deployment
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💡 WHAT I'M BUILDING
+
+| 🚀 Focus Area | Description |
+|--------------|-------------|
+| 🤖 Machine Learning | Building predictive Machine Learning models using Python & Scikit-learn |
+| 📊 Data Science | Data Cleaning, EDA, Visualization & Insights |
+| 🧠 Deep Learning | Learning Artificial Neural Networks & TensorFlow |
+| ⚡ FastAPI | Building APIs for Machine Learning models |
+| 🌐 Streamlit | Developing interactive AI web applications |
+| 🚀 AI Deployment | Deploying Machine Learning models for real-world use |
 
 ---
 
@@ -85,214 +113,74 @@ I enjoy transforming datasets into intelligent insights, training machine learni
 
 ## 👨‍💻 Programming
 
-- Python
-- SQL
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+
+</p>
 
 ---
 
 ## 🤖 Artificial Intelligence
 
-- Machine Learning
-- Deep Learning
-- Data Science
-- Generative AI (Learning)
-- AI Agents (Learning)
+<p>
 
----
-
-## 📊 Data Analysis
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-
----
-
-## 🤖 Machine Learning
-
-- Scikit-Learn
-- Feature Engineering
-- Regression
-- Classification
-- Model Evaluation
-- Data Preprocessing
-
----
-
-## 🔥 Deep Learning
-
-- TensorFlow
-- Keras
-
----
-
-## 🚀 Deployment
-
-- FastAPI
-- Streamlit
-
----
-
-## ⚙ Development Tools
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
----
-
-# 📂 FEATURED PROJECTS
-
-## 🏠 House Price Prediction
-
-Machine Learning model for predicting house prices using regression algorithms.
-
----
-
-## 👥 Customer Churn Prediction
-
-Deep Learning model to predict customer churn using Artificial Neural Networks.
-
----
-
-## 💰 Loan Risk Prediction
-
-ANN model for predicting loan default risk.
-
----
-
-## 🌾 Fertilizer Yield Prediction
-
-Regression model to estimate crop yield using fertilizer data.
-
----
-
-## 📈 Startup Profit Prediction
-
-Multiple Linear Regression model for startup profit estimation.
-
----
-
-## 📊 Retail Supply Chain EDA
-
-Comprehensive exploratory data analysis with business insights and visualizations.
-
----
-
-# 📚 CURRENT LEARNING
-
-- Generative AI
-- AI Agents
-- TensorFlow
-- Deep Learning
-- LLM Applications
-- Prompt Engineering
-- FastAPI
-- Streamlit
-- AI Deployment
-- MLOps Basics
-
----
-
-# 🎯 CAREER GOALS
-
-✔ Become an AI Engineer
-
-✔ Become a Machine Learning Engineer
-
-✔ Work on Large Language Models (LLMs)
-
-✔ Build Intelligent AI Agents
-
-✔ Publish AI Projects
-
-✔ Contribute to Open Source
-
-✔ Work with Global AI Companies
-
----
-
-# 📈 MY AI JOURNEY
-
-| Milestone | Status |
-|------------|--------|
-| BS Artificial Intelligence | ✅ Ongoing |
-| AI Internship | ✅ Completed/Ongoing |
-| Data Science Internship | ✅ Completed/Ongoing |
-| Machine Learning Training | ✅ Ongoing |
-| Deep Learning | 🚀 Learning |
-| Generative AI | 🚀 Learning |
-| AI Agents | 🚀 Learning |
-| AI Deployment | 🚀 Learning |
-
----
-
-# 🌎 CONNECT WITH ME
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/warda-ahad-ai
-
-🐙 **GitHub**
-
-https://github.com/WardaAhad
-
-📊 **Kaggle**
-
-https://kaggle.com/wardaahad
-
-📧 **Email**
-
-ahadwarda3026@gmail.com
-
----
-
-# 📊 GITHUB STATS
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=WardaAhad&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WardaAhad&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardaAhad&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 
 </p>
 
+Machine Learning
+
+Deep Learning
+
+Generative AI (Learning)
+
+AI Agents (Learning)
+
 ---
 
-# 🏆 GITHUB TROPHIES
+## 📊 Data Science
 
-<p align="center">
+<p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=WardaAhad&theme=tokyonight&margin-w=15"/>
+<img src="https://skillicons.dev/icons?i=py"/>
 
 </p>
 
+✔ Pandas
+
+✔ NumPy
+
+✔ Matplotlib
+
+✔ Seaborn
+
+✔ Scikit-learn
+
+✔ Data Analysis
+
+✔ Exploratory Data Analysis
+
+✔ Feature Engineering
+
 ---
 
-# 📈 CONTRIBUTION GRAPH
+## ⚙ Frameworks
 
-<p align="center">
+<p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WardaAhad&theme=tokyo-night"/>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 </p>
 
----
+✔ Streamlit
 
-# 💡 QUOTE
-
-> **"Learning never stops. Every project is a step toward becoming a world-class AI Engineer."**
+✔ Jupyter Notebook
 
 ---
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-### Let's build the future with Artificial Intelligence 🚀
-
-</div>
