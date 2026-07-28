@@ -214,3 +214,87 @@ A conversational chatbot built using Python logic and AI concepts.
 
 Currently building skills in:
 
+
+---
+
+# 🔮 Future AI Focus
+
+
+- 🤖 AI Agents Development
+- ✨ Generative AI Applications
+- 🧠 Large Language Models
+- 🔗 RAG Systems
+- ⚡ AI Automation
+
+
+---
+
+# 📈 AI Learning Journey
+
+
+
+---
+
+# 🏆 Certifications & Achievements
+
+
+🎓 Bachelor of Artificial Intelligence Student
+
+🏅 Machine Learning Training
+
+🏅 Deep Learning Practice
+
+🏅 Python & Data Science Projects
+
+🏅 AI Model Deployment Practice
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=WardaAhad&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardaAhad&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=WardaAhad&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 📫 Connect With Me
+
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/warda-ahad-ai">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+
+<a href="https://github.com/WardaAhad">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+
+---
+
+<div align="center">
+
+## ⭐ Building the Future with Artificial Intelligence 🚀
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:000000&height=120&section=footer"/>
+
+</div>
