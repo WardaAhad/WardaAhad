@@ -1,96 +1,89 @@
-<!-- ============================= -->
-<!--      Warda Ahad GitHub       -->
-<!-- ============================= -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Warda Ahad</h1>
+# 👋 Hi, I'm Warda Ahad
 
-<h3 align="center">
-AI & Machine Learning Enthusiast | BS Artificial Intelligence Student | Python Developer
-</h3>
+### AI & Machine Learning Engineer | BS Artificial Intelligence Student | Python Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast;Generative+AI+Learner;Python+Developer;Building+Real-World+AI+Solutions" />
 
 <p align="center">
-Passionate about building intelligent AI solutions using Machine Learning, Deep Learning, Data Science, and Generative AI.
+
+🎓 BS Artificial Intelligence Student
+
+🤖 AI & Machine Learning Trainee
+
+💻 Python Developer
+
+🚀 Building Intelligent AI Solutions
+
 </p>
+
+</div>
 
 ---
 
-# 👩‍💻 About Me
+# 🚀 ABOUT ME
 
-🎓 BS Artificial Intelligence Student at **The Islamia University of Bahawalpur**
+I'm **Warda Ahad**, a passionate **Artificial Intelligence student** dedicated to building intelligent systems that solve real-world problems.
 
-🤖 AI & Machine Learning Intern at **DecodeLabs**
+My interests lie in **Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Computer Vision, Generative AI, AI Agents, and Python Development.**
 
-📊 Data Science Intern at **DecodeLabs**
+Currently, I am strengthening my expertise by working on real-world AI projects, learning modern AI technologies, and preparing myself for global AI opportunities.
 
-🧠 Machine Learning Trainee at **Logixx Grid**
+I enjoy transforming datasets into intelligent insights, training machine learning models, and deploying AI applications using modern frameworks.
 
-💻 Building real-world Machine Learning & Deep Learning projects
+---
 
-🌱 Currently learning
+# 🎯 CURRENT FOCUS
 
+| 🚀 Area | Description |
+|---------|-------------|
+| 🤖 Artificial Intelligence | Building practical AI applications |
+| 🧠 Machine Learning | Classification, Regression & Predictive Models |
+| 📊 Data Science | EDA, Data Cleaning & Visualization |
+| 🔥 Deep Learning | Neural Networks using TensorFlow |
+| 🌍 Generative AI | Learning LLMs, Prompt Engineering & AI Agents |
+| ⚡ Model Deployment | FastAPI, Streamlit & APIs |
+
+---
+
+# 💼 EXPERIENCE
+
+### 🤖 AI Intern
+**DecodeLabs**
+
+- AI Projects
+- Python Development
+- Machine Learning
+- Git & GitHub
+- Real-world AI Tasks
+
+---
+
+### 📊 Data Science Intern
+**DecodeLabs**
+
+- Exploratory Data Analysis
+- Data Cleaning
+- Data Visualization
+- Business Insights
+
+---
+
+### 🧠 Machine Learning Trainee
+**Logixx Grid**
+
+- Machine Learning
 - Deep Learning
 - FastAPI
 - Streamlit
-- AI Model Deployment
-- Generative AI
-- AI Agents
-
-🎯 Career Goal
-
-Become an AI Engineer specializing in **Generative AI, AI Agents, Machine Learning, and Intelligent Systems**.
-
-📍 Pakistan
-
-📫 Email:
-**ahadwarda3026@gmail.com**
+- Model Deployment
 
 ---
 
-# 🚀 Current Focus
+# 🛠 TECH STACK
 
-🧠 Machine Learning
-
-🤖 Deep Learning
-
-✨ Generative AI
-
-🤖 AI Agents
-
-📊 Data Science
-
-⚡ FastAPI
-
-🌐 Streamlit
-
-☁️ AI Model Deployment
-
----
-
-# 💡 What I'm Working On
-
-✔ Machine Learning Projects
-
-✔ Deep Learning Models
-
-✔ Customer Churn Prediction
-
-✔ House Price Prediction
-
-✔ Loan Risk Prediction
-
-✔ Retail Supply Chain Analysis
-
-✔ FastAPI Deployment
-
-✔ Streamlit Applications
-
-✔ AI Portfolio Projects
-
----
-
-# 🛠 Tech Stack
-
-## 👨‍💻 Programming Languages
+## 👨‍💻 Programming
 
 - Python
 - SQL
@@ -118,148 +111,169 @@ Become an AI Engineer specializing in **Generative AI, AI Agents, Machine Learni
 
 ## 🤖 Machine Learning
 
-- Scikit-learn
+- Scikit-Learn
+- Feature Engineering
 - Regression
 - Classification
 - Model Evaluation
-- Feature Engineering
 - Data Preprocessing
-- Model Selection
 
 ---
 
-## 🧠 Deep Learning
+## 🔥 Deep Learning
 
-- TensorFlow (Learning)
+- TensorFlow
 - Keras
-- Artificial Neural Networks (ANN)
 
 ---
 
-## 🌐 Frameworks
+## 🚀 Deployment
 
 - FastAPI
 - Streamlit
 
 ---
 
-## 🛠 Development Tools
+## ⚙ Development Tools
 
 - Git
 - GitHub
-- Jupyter Notebook
 - VS Code
+- Jupyter Notebook
 
 ---
 
-# 📂 Featured Projects
+# 📂 FEATURED PROJECTS
 
-🏠 House Price Prediction
+## 🏠 House Price Prediction
 
-💰 Loan Risk Prediction
-
-👥 Customer Churn Prediction
-
-🌾 Fertilizer Yield Prediction
-
-📈 Startup Profit Prediction
-
-💵 Salary Prediction
-
-🛒 Retail Supply Chain Sales Analysis
-
-📊 Data Analysis & Machine Learning Projects
+Machine Learning model for predicting house prices using regression algorithms.
 
 ---
 
-# 📈 AI Journey
+## 👥 Customer Churn Prediction
+
+Deep Learning model to predict customer churn using Artificial Neural Networks.
+
+---
+
+## 💰 Loan Risk Prediction
+
+ANN model for predicting loan default risk.
+
+---
+
+## 🌾 Fertilizer Yield Prediction
+
+Regression model to estimate crop yield using fertilizer data.
+
+---
+
+## 📈 Startup Profit Prediction
+
+Multiple Linear Regression model for startup profit estimation.
+
+---
+
+## 📊 Retail Supply Chain EDA
+
+Comprehensive exploratory data analysis with business insights and visualizations.
+
+---
+
+# 📚 CURRENT LEARNING
+
+- Generative AI
+- AI Agents
+- TensorFlow
+- Deep Learning
+- LLM Applications
+- Prompt Engineering
+- FastAPI
+- Streamlit
+- AI Deployment
+- MLOps Basics
+
+---
+
+# 🎯 CAREER GOALS
+
+✔ Become an AI Engineer
+
+✔ Become a Machine Learning Engineer
+
+✔ Work on Large Language Models (LLMs)
+
+✔ Build Intelligent AI Agents
+
+✔ Publish AI Projects
+
+✔ Contribute to Open Source
+
+✔ Work with Global AI Companies
+
+---
+
+# 📈 MY AI JOURNEY
 
 | Milestone | Status |
-|------------|---------|
-| Started BS Artificial Intelligence | ✅ |
-| Python Development | ✅ |
-| Machine Learning Projects | ✅ |
-| Data Science Projects | ✅ |
-| Deep Learning Learning Path | 🚀 |
-| FastAPI Deployment | 🚀 |
-| Streamlit Applications | 🚀 |
-| Generative AI Learning | 🚀 |
-| AI Agents Learning | 🚀 |
-| AI Engineer Career | 🎯 |
+|------------|--------|
+| BS Artificial Intelligence | ✅ Ongoing |
+| AI Internship | ✅ Completed/Ongoing |
+| Data Science Internship | ✅ Completed/Ongoing |
+| Machine Learning Training | ✅ Ongoing |
+| Deep Learning | 🚀 Learning |
+| Generative AI | 🚀 Learning |
+| AI Agents | 🚀 Learning |
+| AI Deployment | 🚀 Learning |
 
 ---
 
-# 🎯 Current Goals
+# 🌎 CONNECT WITH ME
 
-🚀 Become a Professional AI Engineer
+💼 **LinkedIn**
 
-🧠 Master Machine Learning
+https://linkedin.com/in/warda-ahad-ai
 
-🤖 Learn Advanced Deep Learning
-
-✨ Build Generative AI Applications
-
-🤖 Develop AI Agents
-
-☁️ Deploy AI Systems to Cloud
-
-📄 Publish AI Projects
-
-🌍 Contribute to Open Source
-
-💼 Secure an International AI Engineer Role
-
----
-
-# 🌐 Connect With Me
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/warda-ahad-ai
-
-🐙 GitHub
+🐙 **GitHub**
 
 https://github.com/WardaAhad
 
-📊 Kaggle
+📊 **Kaggle**
 
-https://www.kaggle.com/wardaahad
+https://kaggle.com/wardaahad
 
-📧 Email
+📧 **Email**
 
 ahadwarda3026@gmail.com
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GITHUB STATS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WardaAhad&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardaAhad&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=WardaAhad&show_icons=true&theme=tokyonight"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardaAhad&theme=tokyonight"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardaAhad&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=WardaAhad&theme=algolia&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=WardaAhad&theme=tokyonight&margin-w=15"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 CONTRIBUTION GRAPH
 
 <p align="center">
 
@@ -269,14 +283,16 @@ ahadwarda3026@gmail.com
 
 ---
 
-# 💬 Favourite Quote
+# 💡 QUOTE
 
-> **"Artificial Intelligence is not just about building smarter machines; it's about creating solutions that improve lives."**
+> **"Learning never stops. Every project is a step toward becoming a world-class AI Engineer."**
 
 ---
 
-<h3 align="center">
+<div align="center">
 
-⭐ Always Learning • Always Building • Always Improving ⭐
+### ⭐ Thanks for visiting my profile!
 
-</h3>
+### Let's build the future with Artificial Intelligence 🚀
+
+</div>
