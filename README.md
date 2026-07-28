@@ -134,7 +134,7 @@ I work on developing predictive models, AI applications, and deploying machine l
 
 An end-to-end ML system predicting customer churn using Scikit-learn with FastAPI and Streamlit deployment.
 
-Tech Stack
+**Tech Stack**
 
 🐍 Python
 🤖 Scikit-learn
