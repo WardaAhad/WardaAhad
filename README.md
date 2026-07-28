@@ -4,285 +4,170 @@
 
 # 👩‍💻 Warda Ahad
 
-## AI Engineer | Machine Learning | Deep Learning | Generative AI
+### 🤖 AI Engineer | Machine Learning | Generative AI
 
-### Building Intelligent Systems with Python, AI & Data 🚀
+### Building intelligent AI applications with Data, LLMs & Automation 🚀
 
-
-<a href="https://www.linkedin.com/in/warda-ahad-ai">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/WardaAhad">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/wardaahad">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-AI-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-Deployment-green?style=for-the-badge"/>
+</p>
 
 </div>
 
 
----
-
 # 👩‍💻 About Me
 
-Hello! I'm **Warda Ahad**, a **Bachelor of Artificial Intelligence Student** passionate about building intelligent systems using Machine Learning, Deep Learning, and Generative AI.
+I am a **BS Artificial Intelligence Student** passionate about designing and developing intelligent AI systems.
 
-I work on developing predictive models, AI applications, and deploying machine learning solutions.
+My focus areas include:
 
-### Currently Exploring
-
-- 🤖 Machine Learning Engineering
-- 🧠 Deep Learning
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔥 Deep Learning
 - ✨ Generative AI
-- 🔗 AI Agents
-- 🧩 Large Language Models (LLMs)
-- 🚀 AI Model Deployment
+- 🦾 AI Agents
+- 📚 Large Language Models (LLMs)
+- 🔎 Retrieval Augmented Generation (RAG)
 
+Currently building AI-powered applications using **Python, Machine Learning, FastAPI, Streamlit and modern AI technologies.**
 
----
-
-# 💼 Experience & Training
-
-## 🧠 Machine Learning Trainee
-
-**Logixx Grid**
-
-- Machine Learning workflows
-- Data preprocessing
-- Model training and evaluation
-- Data analysis
-- Real-world ML pipelines
-
-
-## 🚀 AI Development Practice
-
-- Building Machine Learning projects
-- Developing APIs with FastAPI
-- Deploying models using Streamlit
-- Version control with Git & GitHub
-
-
----
-
-# 🚀 AI Engineering Focus
-
-
-| Area | Skills |
-|---|---|
-| 🤖 Machine Learning | Regression, Classification, Model Evaluation |
-| 🧠 Deep Learning | Neural Networks, TensorFlow, Keras |
-| 📊 Data Science | Pandas, NumPy, Visualization |
-| ⚡ Backend | FastAPI, REST APIs |
-| 🎨 Deployment | Streamlit, Railway |
-| ✨ Generative AI | LLM Applications, AI Agents |
-
-
----
 
 # 🛠️ Technical Skills
 
 
-### Programming & Data
+## 💻 Programming
 
 🐍 Python  
-📊 Pandas  
-🔢 NumPy  
-📈 Matplotlib  
-🎨 Seaborn  
-🗄 SQL  
+🗄️ SQL  
+⚙️ Git & GitHub  
 
 
-### Machine Learning
+## 🧠 Machine Learning
 
-🤖 Scikit-learn  
-🌳 Decision Trees  
-🌲 Random Forest  
-📉 Regression Models  
-📊 Classification Models  
-⚙️ Feature Engineering  
-📈 Model Evaluation  
-
-
-### Deep Learning & AI
-
-🧠 TensorFlow  
-🔥 Keras  
-🔗 Artificial Neural Networks  
-✨ Generative AI  
-🤖 AI Agents  
-🧩 LLM Applications  
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Feature Engineering
+- Model Evaluation
 
 
-### Deployment & Tools
+## 🧬 Deep Learning
 
-🚀 FastAPI  
-🎨 Streamlit  
-☁️ Railway  
-🐙 Git  
-💻 GitHub  
-🖥️ VS Code  
-📒 Jupyter Notebook  
+- TensorFlow
+- Keras
+- Neural Networks
+- Deep Learning Models
 
 
----
+## ✨ Generative AI
 
-# 📂 Featured Projects
+- Large Language Models (LLMs)
+- Prompt Engineering
+- AI Agents
+- RAG Applications
+- OpenAI API
+- NLP Applications
+
+
+## 🚀 AI Deployment
+
+- FastAPI
+- Streamlit
+- REST APIs
+- Model Deployment
+- GitHub
+
+
+# 🚀 Featured Projects
 
 
 ## 🏠 House Price Prediction
 
-**Machine Learning Regression Project**
+Machine Learning regression system to predict house prices using multiple regression techniques.
 
-Predicting house prices using different regression algorithms.
+**Tech Stack:**
 
-**Tech Stack**
-
-🐍 Python  
-📊 Pandas  
-🤖 Scikit-learn  
-📈 Regression Models  
+Python | Scikit-learn | Pandas | FastAPI
 
 
 ---
-
-
-## 💳 Loan Risk Prediction
-
-**Deep Learning Classification Project**
-
-Predicting loan default risk using Artificial Neural Networks.
-
-**Tech Stack**
-
-🐍 Python  
-🧠 TensorFlow  
-🔥 Neural Networks  
-📊 Data Analysis  
-
-
----
-
 
 ## 🌱 Fertilizer Yield Prediction
 
-**Machine Learning Prediction System**
+Machine Learning project predicting crop yield based on fertilizer usage.
 
-Predicting crop yield based on fertilizer usage.
+**Tech Stack:**
 
-**Tech Stack**
-
-🐍 Python  
-📉 Linear Regression  
-📊 Data Visualization  
-🎨 Streamlit  
+Python | Regression | Streamlit
 
 
 ---
 
+## 🏦 Customer Churn Prediction
 
-## 🤖 Rule Based AI Chatbot
+Classification model predicting customer churn risk with deployed API.
 
-**Artificial Intelligence Chatbot**
+**Tech Stack:**
 
-A Python-based chatbot implementing conversational logic.
-
-**Tech Stack**
-
-🐍 Python  
-🧠 NLP Basics  
-💬 Rule-Based System  
+Machine Learning | FastAPI | Deployment
 
 
 ---
 
-# 🚀 AI Development Journey
+## 🤖 AI Chatbot
 
-<div align="center">
+Intelligent chatbot applications using NLP and Generative AI concepts.
 
-🐍 **Python Programming**
-<br>
-⬇️
-<br>
-📊 **Data Analysis**
-<br>
-⬇️
-<br>
-🤖 **Machine Learning**
-<br>
-⬇️
-<br>
-🧠 **Deep Learning**
-<br>
-⬇️
-<br>
-⚡ **FastAPI & Deployment**
-<br>
-⬇️
-<br>
-✨ **Generative AI**
-<br>
-⬇️
-<br>
-🔗 **AI Agents Engineer 🚀**
+**Tech Stack:**
 
-</div>
+Python | NLP | LLMs | AI Agents
 
 
----
 
-# 🔮 Future Focus
+# 📚 Currently Learning
 
+🚀 Generative AI Applications  
+🤖 AI Agent Development  
+🔎 RAG Systems  
+☁️ Cloud AI Deployment  
+⚙️ MLOps  
 
-- 🤖 AI Agents Development
-- ✨ Generative AI Applications
-- 🧠 Large Language Models
-- 🔗 RAG Systems
-- ⚡ AI Automation
-
-
----
 
 # 📊 GitHub Analytics
 
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WardaAhad&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=WardaAhad&show_icons=true&theme=tokyonight"/>
 
-<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardaAhad&layout=compact&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WardaAhad&theme=tokyonight" width="90%"/>
-
-</div>
-
-# 📫 Connect With Me
+</p>
 
 
-<div align="center">
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=WardaAhad&theme=tokyonight"/>
+
+</p>
 
 
-<a href="https://www.linkedin.com/in/warda-ahad-ai">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+# 🌐 Connect With Me
 
+💼 LinkedIn: Add your LinkedIn URL
 
-<a href="https://github.com/WardaAhad">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
+📊 Kaggle: https://www.kaggle.com/wardaahad
 
+🐙 GitHub: https://github.com/WardaAhad
 
-</div>
-
-
----
 
 <div align="center">
 
-### ⭐ Building Intelligent Systems with Artificial Intelligence 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:000000&height=120&section=footer"/>
+⭐ Creating intelligent solutions with Artificial Intelligence ⭐
 
 </div>
