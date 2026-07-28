@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:000000&height=230&section=header&text=Warda%20Ahad&fontSize=75&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:000000&height=220&section=header&text=Warda%20Ahad&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
 
 # 👩‍💻 Warda Ahad
 
@@ -21,7 +21,6 @@
 <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
-
 </div>
 
 
@@ -29,14 +28,11 @@
 
 # 👩‍💻 About Me
 
-
 Hello! I'm **Warda Ahad**, a **Bachelor of Artificial Intelligence Student** passionate about building intelligent systems using Machine Learning, Deep Learning, and Generative AI.
 
+I work on developing predictive models, AI applications, and deploying machine learning solutions.
 
-I focus on developing AI solutions, predictive models, and deploying machine learning applications into real-world environments.
-
-
-### Currently Exploring:
+### Currently Exploring
 
 - 🤖 Machine Learning Engineering
 - 🧠 Deep Learning
@@ -50,23 +46,23 @@ I focus on developing AI solutions, predictive models, and deploying machine lea
 
 # 💼 Experience & Training
 
-
 ## 🧠 Machine Learning Trainee
 
 **Logixx Grid**
 
-- Working on Machine Learning workflows
-- Data preprocessing and analysis
+- Machine Learning workflows
+- Data preprocessing
 - Model training and evaluation
-- Understanding real-world ML pipelines
+- Data analysis
+- Real-world ML pipelines
 
 
 ## 🚀 AI Development Practice
 
-- Building ML projects
-- Developing APIs using FastAPI
-- Deploying models with Streamlit
-- Working with Git & GitHub
+- Building Machine Learning projects
+- Developing APIs with FastAPI
+- Deploying models using Streamlit
+- Version control with Git & GitHub
 
 
 ---
@@ -78,7 +74,7 @@ I focus on developing AI solutions, predictive models, and deploying machine lea
 |---|---|
 | 🤖 Machine Learning | Regression, Classification, Model Evaluation |
 | 🧠 Deep Learning | Neural Networks, TensorFlow, Keras |
-| 📊 Data Science | Pandas, NumPy, Data Visualization |
+| 📊 Data Science | Pandas, NumPy, Visualization |
 | ⚡ Backend | FastAPI, REST APIs |
 | 🎨 Deployment | Streamlit, Railway |
 | ✨ Generative AI | LLM Applications, AI Agents |
@@ -89,7 +85,7 @@ I focus on developing AI solutions, predictive models, and deploying machine lea
 # 🛠️ Technical Skills
 
 
-## 👨‍💻 Programming & Data
+### Programming & Data
 
 🐍 Python  
 📊 Pandas  
@@ -99,37 +95,36 @@ I focus on developing AI solutions, predictive models, and deploying machine lea
 🗄 SQL  
 
 
-## 🤖 Machine Learning
+### Machine Learning
 
-- Scikit-learn
-- Regression Models
-- Classification Models
-- Decision Trees
-- Random Forest
-- Feature Engineering
-- Model Evaluation
-
-
-## 🧠 Deep Learning & AI
-
-- TensorFlow
-- Keras
-- Artificial Neural Networks
-- Deep Learning Fundamentals
-- Generative AI
-- AI Agents
-- LLM Applications
+🤖 Scikit-learn  
+🌳 Decision Trees  
+🌲 Random Forest  
+📉 Regression Models  
+📊 Classification Models  
+⚙️ Feature Engineering  
+📈 Model Evaluation  
 
 
-## 🚀 Deployment & Tools
+### Deep Learning & AI
 
-- FastAPI
-- Streamlit
-- Railway
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+🧠 TensorFlow  
+🔥 Keras  
+🔗 Artificial Neural Networks  
+✨ Generative AI  
+🤖 AI Agents  
+🧩 LLM Applications  
+
+
+### Deployment & Tools
+
+🚀 FastAPI  
+🎨 Streamlit  
+☁️ Railway  
+🐙 Git  
+💻 GitHub  
+🖥️ VS Code  
+📒 Jupyter Notebook  
 
 
 ---
@@ -137,14 +132,11 @@ I focus on developing AI solutions, predictive models, and deploying machine lea
 # 📂 Featured Projects
 
 
-<div align="center">
-
-
 ## 🏠 House Price Prediction
 
 **Machine Learning Regression Project**
 
-Predicting house prices using multiple regression algorithms.
+Predicting house prices using different regression algorithms.
 
 **Tech Stack**
 
@@ -184,7 +176,7 @@ Predicting crop yield based on fertilizer usage.
 
 🐍 Python  
 📉 Linear Regression  
-📊 Visualization  
+📊 Data Visualization  
 🎨 Streamlit  
 
 
@@ -195,7 +187,7 @@ Predicting crop yield based on fertilizer usage.
 
 **Artificial Intelligence Chatbot**
 
-A conversational chatbot built using Python logic and AI concepts.
+A Python-based chatbot implementing conversational logic.
 
 **Tech Stack**
 
@@ -204,20 +196,44 @@ A conversational chatbot built using Python logic and AI concepts.
 💬 Rule-Based System  
 
 
+---
+
+# 🚀 AI Development Journey
+
+<div align="center">
+
+🐍 **Python Programming**
+<br>
+⬇️
+<br>
+📊 **Data Analysis**
+<br>
+⬇️
+<br>
+🤖 **Machine Learning**
+<br>
+⬇️
+<br>
+🧠 **Deep Learning**
+<br>
+⬇️
+<br>
+⚡ **FastAPI & Deployment**
+<br>
+⬇️
+<br>
+✨ **Generative AI**
+<br>
+⬇️
+<br>
+🔗 **AI Agents Engineer 🚀**
+
 </div>
 
 
 ---
 
-# 🚀 Deployment & AI Applications
-
-
-Currently building skills in:
-
-
----
-
-# 🔮 Future AI Focus
+# 🔮 Future Focus
 
 
 - 🤖 AI Agents Development
@@ -229,28 +245,6 @@ Currently building skills in:
 
 ---
 
-# 📈 AI Learning Journey
-
-
-
----
-
-# 🏆 Certifications & Achievements
-
-
-🎓 Bachelor of Artificial Intelligence Student
-
-🏅 Machine Learning Training
-
-🏅 Deep Learning Practice
-
-🏅 Python & Data Science Projects
-
-🏅 AI Model Deployment Practice
-
-
----
-
 # 📊 GitHub Analytics
 
 
@@ -258,11 +252,11 @@ Currently building skills in:
 
 <img src="https://github-readme-stats.vercel.app/api?username=WardaAhad&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WardaAhad&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=WardaAhad&theme=tokyonight&hide_border=true"/>
 
@@ -276,6 +270,7 @@ Currently building skills in:
 
 <div align="center">
 
+
 <a href="https://www.linkedin.com/in/warda-ahad-ai">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -285,6 +280,7 @@ Currently building skills in:
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
+
 </div>
 
 
@@ -292,8 +288,7 @@ Currently building skills in:
 
 <div align="center">
 
-## ⭐ Building the Future with Artificial Intelligence 🚀
-
+### ⭐ Building Intelligent Systems with Artificial Intelligence 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:000000&height=120&section=footer"/>
 
