@@ -136,6 +136,7 @@ An end-to-end ML system predicting customer churn using Scikit-learn with FastAP
 
 **Tech Stack**
 
+
 🐍 Python
 🤖 Scikit-learn
 ⚡ FastAPI
