@@ -1,113 +1,174 @@
-# 👋 Hi, I'm Warda Ahad
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Student;Machine+Learning+Enthusiast;Python+Developer;Future+AI+Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:000000&height=220&section=header&text=Warda%20Ahad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+# 👩‍💻 Warda Ahad
+
+## AI Engineer | Machine Learning | Deep Learning | Generative AI
+
+### Building Intelligent Systems with Python, AI & Data 🚀
+
+<p>
+<a href="https://www.linkedin.com/in/warda-ahad-ai">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/WardaAhad">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/wardaahad">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 </p>
 
-<h3 align="center">AI • Machine Learning • Deep Learning • Data Science • Python</h3>
+</div>
+
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 🎓 **BS Artificial Intelligence Student** – The Islamia University of Bahawalpur
-- 🤖 **AI Intern** – DecodeLabs
-- 📊 **Data Science Intern** – DecodeLabs
-- 🧠 **Machine Learning & Deep Learning Trainee** – Logixx Grid
-- 🌱 Learning **Deep Learning, FastAPI, Streamlit, AI Model Deployment, Generative AI & AI Agents**
-- 💻 Building practical AI and Machine Learning projects with Python.
-- 📫 **Email:** ahadwarda3026@gmail.com
+Hello! I'm **Warda Ahad**, a **Bachelor of Artificial Intelligence Student** passionate about creating intelligent solutions using Machine Learning, Deep Learning, and Generative AI.
 
----
+I love working with data, building predictive models, developing AI applications, and deploying machine learning solutions.
 
-# 🚀 Current Focus
+Currently exploring:
 
-| Area | Focus |
-|------|-------|
-| 🤖 AI | Machine Learning & Deep Learning |
-| 📊 Data | EDA & Analytics |
-| 🌐 Deployment | FastAPI & Streamlit |
-| 🧠 Learning | Generative AI & AI Agents |
+- 🤖 Machine Learning Engineering
+- 🧠 Deep Learning
+- ✨ Generative AI
+- 🔗 AI Agents
+- ⚡ AI Application Development
+- 🚀 Model Deployment
+
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 AI Engineering Focus
 
-### Languages
-Python • SQL
+<div align="center">
 
-### AI / ML
-Scikit-learn • TensorFlow (Learning) • ANN • Regression • Classification
+| Field | Skills |
+|---|---|
+| 🤖 Machine Learning | Regression, Classification, Model Evaluation |
+| 🧠 Deep Learning | Neural Networks, TensorFlow, Keras |
+| 📊 Data Science | Pandas, NumPy, Data Visualization |
+| ⚡ Backend | FastAPI, REST APIs |
+| 🎨 Deployment | Streamlit, Railway |
+| ✨ Generative AI | LLM Applications & AI Agents |
 
-### Data Science
-Pandas • NumPy • Matplotlib • Seaborn • EDA
+</div>
 
-### Tools
-Git • GitHub • VS Code • Jupyter Notebook • FastAPI • Streamlit
+
+---
+
+# 🛠️ Technical Skills
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,git,github,vscode,sql" />
+
+</div>
+
+
+### Programming & Data
+
+🐍 Python  
+📊 Pandas  
+🔢 NumPy  
+📈 Matplotlib  
+🎨 Seaborn  
+
+
+### Machine Learning
+
+🤖 Scikit-learn  
+🌳 Decision Trees  
+🌲 Random Forest  
+📉 Regression Models  
+📊 Classification Models  
+
+
+### AI Development
+
+🧠 TensorFlow  
+🔥 Deep Learning  
+✨ Generative AI  
+🔗 AI Agents  
+⚡ LLM Applications  
+
+
+### Deployment Tools
+
+🚀 FastAPI  
+🎨 Streamlit  
+☁️ Railway  
+🐙 Git & GitHub  
+
 
 ---
 
 # 📂 Featured Projects
 
-- 🏠 House Price Prediction
-- 👥 Customer Churn Prediction
-- 💰 Loan Risk Prediction
-- 🌾 Fertilizer Yield Prediction
-- 📈 Startup Profit Prediction
-- 💵 Salary Prediction
-- 🛒 Retail Supply Chain Sales EDA
+
+## 🏠 House Price Prediction
+
+A Machine Learning regression project that predicts house prices using multiple regression algorithms.
+
+**Technologies:**
+
+- Python
+- Pandas
+- Scikit-learn
+- Regression Models
+- Model Evaluation
+
 
 ---
 
-# 📈 AI Journey
+## 💳 Loan Risk Prediction
 
-| Milestone | Status |
-|-----------|--------|
-| Python | ✅ |
-| Machine Learning | ✅ |
-| Data Science | ✅ |
-| Deep Learning | 🚀 |
-| FastAPI | 🚀 |
-| Streamlit | 🚀 |
-| AI Deployment | 🚀 |
-| Generative AI | 📚 |
+A Deep Learning project to predict loan default risk using Artificial Neural Networks.
 
----
+**Technologies:**
 
-# 🎯 Goals
+- Python
+- TensorFlow
+- Neural Networks
+- Data Analysis
+- Classification
 
-- Become an AI Engineer
-- Build production-ready AI systems
-- Master Generative AI & AI Agents
-- Contribute to Open Source
-- Secure international AI opportunities
 
 ---
 
-# 🌐 Connect With Me
+## 🌱 Fertilizer Yield Prediction
 
-- LinkedIn: https://www.linkedin.com/in/warda-ahad-ai
-- GitHub: https://github.com/WardaAhad
-- Kaggle: https://www.kaggle.com/wardaahad
+A Machine Learning model that predicts crop yield based on fertilizer usage.
 
----
+**Technologies:**
 
-# 📊 GitHub Stats
+- Python
+- Linear Regression
+- Data Visualization
+- Streamlit Deployment
 
-Replace `WardaAhad` below if your username changes.
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WardaAhad&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WardaAhad&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=WardaAhad&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WardaAhad&theme=tokyo-night)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=WardaAhad&theme=algolia)
-```
 
 ---
 
-> **"Always learning, building, and improving AI solutions."**
+## 🤖 Rule Based AI Chatbot
+
+A Python-based chatbot project implementing conversational logic and AI concepts.
+
+**Technologies:**
+
+- Python
+- NLP Basics
+- Rule-Based System
+
+
+---
+
+# 📈 AI Learning Journey
+
