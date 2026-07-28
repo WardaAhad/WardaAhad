@@ -44,7 +44,7 @@ I work on developing predictive models, AI applications, and deploying machine l
 
 ---
 
-# 💼 Experience & Training
+# 💼 Experience
 
 ### 🧠 AI/ML Engineer Apprentice — Logixx Grid
 
@@ -53,7 +53,6 @@ I work on developing predictive models, AI applications, and deploying machine l
 - Performing data preprocessing and analysis
 - Building AI solutions using Python
 - Exploring model deployment workflows
-
 
 ## 🚀 AI Development Practice
 
@@ -133,7 +132,7 @@ I work on developing predictive models, AI applications, and deploying machine l
 
 **Machine Learning Deployment Project**
 
-Predicting customer churn using Machine Learning with API deployment.
+An end-to-end ML system predicting customer churn using Scikit-learn with FastAPI and Streamlit deployment.
 
 Tech Stack
 
@@ -250,11 +249,13 @@ A Python-based chatbot implementing conversational logic.
 # 🔮 Future Focus
 
 
+## 🔮 Future Focus
+
 - 🤖 AI Agents Development
 - ✨ Generative AI Applications
-- 🧠 Large Language Models
-- 🔗 RAG Systems
-- ⚡ AI Automation
+- 🧠 Large Language Models (LLMs)
+- 🔗 Retrieval-Augmented Generation (RAG)
+- ⚡ AI Automation Workflows
 
 
 ---
