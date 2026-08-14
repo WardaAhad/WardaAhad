@@ -35,8 +35,7 @@ I work on developing predictive models, AI applications, NLP solutions, computer
 * 📝 Natural Language Processing (NLP)
 * 🔤 Text Preprocessing & Tokenization
 * 💬 Text Classification
-* 👁️ Computer Vision
-* 🎯 Object Detection & YOLO
+* 📊 NLP Feature Extraction
 * 🚀 AI Model Deployment
 
 ---
@@ -49,7 +48,7 @@ I work on developing predictive models, AI applications, NLP solutions, computer
 * Developing and evaluating ML models
 * Performing data preprocessing and analysis
 * Building AI solutions using Python
-* Exploring model deployment workflows
+* Exploring machine learning deployment workflows
 
 ### 🤖 AI Intern — Decode Labs
 
@@ -77,15 +76,16 @@ I work on developing predictive models, AI applications, NLP solutions, computer
 * Version control with Git & GitHub
 
 ---
+
 # 🚀 AI Engineering Focus
 
 | Area                | Skills                                                                      |
 | ------------------- | --------------------------------------------------------------------------- |
-| 🤖 Machine Learning | Regression, Classification, Model Evaluation                                |
-| 🧠 Deep Learning    | Neural Networks, Deep Learning                                              |
+| 🤖 Machine Learning | Regression, Classification, Feature Engineering, Model Evaluation           |
+| 🧠 Deep Learning    | Neural Networks, TensorFlow, Keras                                          |
 | 📝 NLP              | Text Preprocessing, Tokenization, TF-IDF, Bag-of-Words, Text Classification |
 | 👁️ Computer Vision | Image Processing, Object Detection, YOLO                                    |
-| 📊 Data Science     | Pandas, NumPy, Data Visualization                                           |
+| 📊 Data Science     | Pandas, NumPy, Data Visualization, EDA                                      |
 | ⚡ Backend           | FastAPI, REST APIs                                                          |
 | 🚀 Deployment       | Streamlit, Railway                                                          |
 
@@ -114,7 +114,7 @@ I work on developing predictive models, AI applications, NLP solutions, computer
 
 ### 🧠 Deep Learning
 
-* 🧠 Neural Networks
+* 🧠 Artificial Neural Networks
 * 🔥 TensorFlow
 * ⚡ Keras
 * 🧩 Deep Learning Fundamentals
@@ -171,7 +171,7 @@ An AI-powered road damage detection system using YOLO to detect different types 
 
 **Machine Learning Deployment Project**
 
-An end-to-end machine learning system that predicts customer churn using classification models and provides predictions through a deployed application.
+An end-to-end machine learning system that predicts customer churn using classification models and provides predictions through a web application.
 
 **Tech Stack**
 
@@ -231,7 +231,7 @@ A machine learning application for predicting crop yield based on fertilizer and
 
 ## 🤖 Rule-Based AI Chatbot
 
-**Artificial Intelligence Chatbot**
+**Artificial Intelligence & NLP Project**
 
 A Python-based chatbot implementing rule-based conversational logic and basic NLP concepts.
 
