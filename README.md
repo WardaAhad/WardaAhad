@@ -51,6 +51,22 @@ I work on developing predictive models, AI applications, NLP solutions, computer
 * Building AI solutions using Python
 * Exploring model deployment workflows
 
+### 🤖 AI Intern — Decode Labs
+
+* Worked on Artificial Intelligence and Machine Learning projects
+* Developed and experimented with AI/ML solutions using Python
+* Applied data preprocessing and machine learning techniques
+* Worked with model development and evaluation
+* Gained practical experience in AI project development
+
+### 📊 Data Science Intern — Decode Labs
+
+* Worked on Data Science projects and data analysis
+* Performed data cleaning and preprocessing
+* Analyzed datasets to extract meaningful insights
+* Applied Python and data science techniques
+* Worked with data visualization and exploratory data analysis
+
 ### 🚀 AI Development Practice
 
 * Building Machine Learning projects
@@ -61,7 +77,6 @@ I work on developing predictive models, AI applications, NLP solutions, computer
 * Version control with Git & GitHub
 
 ---
-
 # 🚀 AI Engineering Focus
 
 | Area                | Skills                                                                      |
