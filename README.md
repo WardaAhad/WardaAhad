@@ -4,10 +4,9 @@
 
 # 👩‍💻 Warda Ahad
 
-🤖 AI Engineer | ML Engineer Apprentice | Deep Learning | Generative AI
+🤖 **AI Engineer | Machine Learning | Deep Learning | NLP | Computer Vision**
 
 ### Building Intelligent Systems with Python, AI & Data 🚀
-
 
 <a href="https://www.linkedin.com/in/warda-ahad-ai">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,24 +22,22 @@
 
 </div>
 
-
 ---
 
 # 👩‍💻 About Me
 
-Hello! I'm **Warda Ahad**, a **Bachelor of Artificial Intelligence Student** passionate about building intelligent systems using Machine Learning, Deep Learning, and Generative AI.
+Hello! I'm **Warda Ahad**, a **Bachelor of Artificial Intelligence Student** passionate about building intelligent systems using **Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision**.
 
-I work on developing predictive models, AI applications, and deploying machine learning solutions.
+I work on developing predictive models, AI applications, NLP solutions, computer vision systems, and deploying machine learning solutions using Python.
 
 ### Currently Exploring
 
-- 🤖 Machine Learning Engineering
-- 🧠 Deep Learning
-- ✨ Generative AI
-- 🔗 AI Agents
-- 🧩 Large Language Models (LLMs)
-- 🚀 AI Model Deployment
-
+* 📝 Natural Language Processing (NLP)
+* 🔤 Text Preprocessing & Tokenization
+* 💬 Text Classification
+* 👁️ Computer Vision
+* 🎯 Object Detection & YOLO
+* 🚀 AI Model Deployment
 
 ---
 
@@ -48,94 +45,120 @@ I work on developing predictive models, AI applications, and deploying machine l
 
 ### 🧠 AI/ML Engineer Apprentice — Logixx Grid
 
-- Working on Machine Learning and Data Science projects
-- Developing and evaluating ML models
-- Performing data preprocessing and analysis
-- Building AI solutions using Python
-- Exploring model deployment workflows
+* Working on Machine Learning and Data Science projects
+* Developing and evaluating ML models
+* Performing data preprocessing and analysis
+* Building AI solutions using Python
+* Exploring model deployment workflows
 
-## 🚀 AI Development Practice
+### 🚀 AI Development Practice
 
-- Building Machine Learning projects
-- Developing APIs with FastAPI
-- Deploying models using Streamlit
-- Version control with Git & GitHub
-
+* Building Machine Learning projects
+* Developing APIs with FastAPI
+* Creating interactive applications with Streamlit
+* Working with NLP and Computer Vision concepts
+* Deploying machine learning applications
+* Version control with Git & GitHub
 
 ---
 
 # 🚀 AI Engineering Focus
 
-
-| Area | Skills |
-|---|---|
-| 🤖 Machine Learning | Regression, Classification, Model Evaluation |
-| 🧠 Deep Learning | Neural Networks, TensorFlow, Keras |
-| 📊 Data Science | Pandas, NumPy, Visualization |
-| ⚡ Backend | FastAPI, REST APIs |
-| 🎨 Deployment | Streamlit, Railway |
-| ✨ Generative AI | LLM Applications, AI Agents |
-
+| Area                | Skills                                                                      |
+| ------------------- | --------------------------------------------------------------------------- |
+| 🤖 Machine Learning | Regression, Classification, Model Evaluation                                |
+| 🧠 Deep Learning    | Neural Networks, Deep Learning                                              |
+| 📝 NLP              | Text Preprocessing, Tokenization, TF-IDF, Bag-of-Words, Text Classification |
+| 👁️ Computer Vision | Image Processing, Object Detection, YOLO                                    |
+| 📊 Data Science     | Pandas, NumPy, Data Visualization                                           |
+| ⚡ Backend           | FastAPI, REST APIs                                                          |
+| 🚀 Deployment       | Streamlit, Railway                                                          |
 
 ---
 
 # 🛠️ Technical Skills
 
+### 🐍 Programming & Data
 
-### Programming & Data
+* 🐍 Python
+* 📊 Pandas
+* 🔢 NumPy
+* 📈 Matplotlib
+* 🎨 Seaborn
+* 🗄️ SQL
 
-🐍 Python  
-📊 Pandas  
-🔢 NumPy  
-📈 Matplotlib  
-🎨 Seaborn  
-🗄 SQL  
+### 🤖 Machine Learning
 
+* 🤖 Scikit-learn
+* 🌳 Decision Trees
+* 🌲 Random Forest
+* 📉 Regression Models
+* 📊 Classification Models
+* ⚙️ Feature Engineering
+* 📈 Model Evaluation
 
-### Machine Learning
+### 🧠 Deep Learning
 
-🤖 Scikit-learn  
-🌳 Decision Trees  
-🌲 Random Forest  
-📉 Regression Models  
-📊 Classification Models  
-⚙️ Feature Engineering  
-📈 Model Evaluation  
+* 🧠 Neural Networks
+* 🔥 TensorFlow
+* ⚡ Keras
+* 🧩 Deep Learning Fundamentals
 
+### 📝 Natural Language Processing
 
-### Deep Learning & AI
+* 📝 NLP Fundamentals
+* 🔤 Text Preprocessing
+* 🧹 Tokenization
+* 📊 TF-IDF
+* 📦 Bag-of-Words
+* 💬 Text Classification
 
-🧠 TensorFlow  
-🔥 Keras  
-🔗 Artificial Neural Networks  
-✨ Generative AI  
-🤖 AI Agents  
-🧩 LLM Applications  
+### 👁️ Computer Vision
 
+* 👁️ Image Processing
+* 🔍 Object Detection
+* 🎯 YOLO
+* 🖼️ Image Classification
+* 🧠 Deep Learning for Computer Vision
 
-### Deployment & Tools
+### 🚀 Deployment & Tools
 
-🚀 FastAPI  
-🎨 Streamlit  
-☁️ Railway  
-🐙 Git  
-💻 GitHub  
-🖥️ VS Code  
-📒 Jupyter Notebook  
-
+* ⚡ FastAPI
+* 🎨 Streamlit
+* ☁️ Railway
+* 🐙 Git
+* 💻 GitHub
+* 🖥️ VS Code
+* 📒 Jupyter Notebook
 
 ---
 
 # 📂 Featured Projects
 
+## 🚧 AI Road Damage Detection
+
+**Deep Learning & Computer Vision Project**
+
+An AI-powered road damage detection system using YOLO to detect different types of road damage from images.
+
+**Tech Stack**
+
+🐍 Python
+🧠 Deep Learning
+🎯 YOLO
+👁️ Computer Vision
+⚡ FastAPI
+🎨 Streamlit
+
+---
+
 ## 📞 Customer Churn Prediction System
 
 **Machine Learning Deployment Project**
 
-An end-to-end ML system predicting customer churn using Scikit-learn with FastAPI and Streamlit deployment.
+An end-to-end machine learning system that predicts customer churn using classification models and provides predictions through a deployed application.
 
 **Tech Stack**
-
 
 🐍 Python
 🤖 Scikit-learn
@@ -143,72 +166,65 @@ An end-to-end ML system predicting customer churn using Scikit-learn with FastAP
 🎨 Streamlit
 ☁️ Railway
 
-
 ---
 
 ## 🏠 House Price Prediction
 
 **Machine Learning Regression Project**
 
-Predicting house prices using different regression algorithms.
+A machine learning system for predicting house prices using regression algorithms and data preprocessing techniques.
 
 **Tech Stack**
 
-🐍 Python  
-📊 Pandas  
-🤖 Scikit-learn  
-📈 Regression Models  
-
+🐍 Python
+📊 Pandas
+🤖 Scikit-learn
+📈 Regression Models
 
 ---
-
 
 ## 💳 Loan Risk Prediction
 
 **Deep Learning Classification Project**
 
-Predicting loan default risk using Artificial Neural Networks.
+A deep learning classification project focused on predicting loan default risk using Artificial Neural Networks.
 
 **Tech Stack**
 
-🐍 Python  
-🧠 TensorFlow  
-🔥 Neural Networks  
-📊 Data Analysis  
-
+🐍 Python
+🧠 TensorFlow
+🔥 Keras
+🔗 Neural Networks
 
 ---
-
 
 ## 🌱 Fertilizer Yield Prediction
 
 **Machine Learning Prediction System**
 
-Predicting crop yield based on fertilizer usage.
+A machine learning application for predicting crop yield based on fertilizer and agricultural data.
 
 **Tech Stack**
 
-🐍 Python  
-📉 Linear Regression  
-📊 Data Visualization  
-🎨 Streamlit  
-
+🐍 Python
+📊 Pandas
+📉 Linear Regression
+📈 Data Visualization
+🎨 Streamlit
 
 ---
 
-
-## 🤖 Rule Based AI Chatbot
+## 🤖 Rule-Based AI Chatbot
 
 **Artificial Intelligence Chatbot**
 
-A Python-based chatbot implementing conversational logic.
+A Python-based chatbot implementing rule-based conversational logic and basic NLP concepts.
 
 **Tech Stack**
 
-🐍 Python  
-🧠 NLP Basics  
-💬 Rule-Based System  
-
+🐍 Python
+📝 NLP Basics
+💬 Rule-Based System
 
 ---
 
@@ -216,53 +232,39 @@ A Python-based chatbot implementing conversational logic.
 
 <div align="center">
 
-🐍 **Python Programming**
-<br>
-⬇️
-<br>
-📊 **Data Analysis**
-<br>
-⬇️
-<br>
-🤖 **Machine Learning**
-<br>
-⬇️
-<br>
-🧠 **Deep Learning**
-<br>
-⬇️
-<br>
-⚡ **FastAPI & Deployment**
-<br>
-⬇️
-<br>
-✨ **Generative AI**
-<br>
-⬇️
-<br>
-🔗 **AI Agents Engineer 🚀**
+🐍 **Python Programming** <br>
+⬇️ <br>
+📊 **Data Analysis** <br>
+⬇️ <br>
+🤖 **Machine Learning** <br>
+⬇️ <br>
+🧠 **Deep Learning** <br>
+⬇️ <br>
+📝 **Natural Language Processing** <br>
+⬇️ <br>
+👁️ **Computer Vision** <br>
+⬇️ <br>
+⚡ **FastAPI & Deployment** <br>
+⬇️ <br>
+✨ **Future: Generative AI** <br>
+⬇️ <br>
+🔗 **Future: AI Agents**
 
 </div>
-
 
 ---
 
 # 🔮 Future Focus
 
-
-## 🔮 Future Focus
-
-- 🤖 AI Agents Development
-- ✨ Generative AI Applications
-- 🧠 Large Language Models (LLMs)
-- 🔗 Retrieval-Augmented Generation (RAG)
-- ⚡ AI Automation Workflows
-
+* ✨ Generative AI Applications
+* 🧩 Large Language Models (LLMs)
+* 🔗 Retrieval-Augmented Generation (RAG)
+* 🤖 AI Agents
+* ⚡ AI Automation Workflows
 
 ---
 
 # 📊 GitHub Analytics
-
 
 <div align="center">
 
@@ -274,24 +276,25 @@ A Python-based chatbot implementing conversational logic.
 
 </div>
 
+---
+
 # 📫 Connect With Me
 
-
 <div align="center">
-
 
 <a href="https://www.linkedin.com/in/warda-ahad-ai">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-
 <a href="https://github.com/WardaAhad">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://www.kaggle.com/wardaahad">
+<img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
 
 </div>
-
 
 ---
 
